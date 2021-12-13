@@ -1,0 +1,17 @@
+venv/
+.vscode/
+__pycache__/
+sqldiff.exe
+sqlite3_analyzer.exe
+sqlite3.exe
+
+
+*.pyc
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
