@@ -1,0 +1,50 @@
+
+Hello World!
+
+My name is REDA ELKHOLFI, and this is my CS50BX 2021 Final Project!
+
+Let me start the journey to the current project with the following phrase:
+
+"The development process of the current project is severely limited by my 
+ lack of understanding of what I am doing"
+
+Okay, I do have at least some understanding of what I am doing but I still
+wanted to add the phrase somehow into the project. However, this phrase
+describes quite accurately the feelings of not only myself but most likely
+other CS50BX students at some point through our learning journey. Perhaps,
+even around the same place, which was from Week 6 and forward. I also find
+extremely helpful the fact that CS50BX is built in my opinion to make us, as 
+developers, to just feel comfortable while having a feeling like that. learning
+how to power through lack of understanding by acquiring more information is by
+far the most valuable skill I have learned in CS50BX. Even though this is the
+first file I created for the project, I have done several steps to get here.
+
+Here is a small recap of the journey so far:
+-I researched what IDE or code editor I was going to use. My answer is VSCode.
+ Next up, I also needed to figure out how it works and some tips and tricks.
+ For this purpose, the Get Started tutorials that pop-up upon first start-up
+ of VS Code proved extremely useful. 
+
+-I learnt through CS50X various commands for the terminal that were very
+ handy. However, I discovered that those commands are linux-based, and 
+ sure enough, I am running Windows, so I researched on how to set up 
+ that terminal into my system, and did it quite easily by following the
+ Microsoft tutorials about WSL2 (Windows Subsystem for Linux 2). The set-up
+ process was pretty straight forward by just following a few commands.
+
+And well, this might be the end of this first file. I am indeed aware that 
+I havent even mentioned what my project is (yes, I promise I do know what 
+my project will be at this stage), but, as for the project specification,
+a Readme.md file is required, and that is indeed the next step I am taking.
+
+Still, you might have guessed it, even though I have dealt with markdown
+syntax before (Rmd or R markdown files), it was a while ago and under an 
+extremely different context, so I will teach myself how to create it, and
+also, how to make it pretty and well styled, to a point I would feel
+comfortable running a style50 check on it and bet on receiving a "Looks good!".
+
+The rest of the project background and info will be found on the Readme.md 
+file that will exist by the time you are reviewing this starting notes about
+my project.
+
+I'm REDA ELKHOLFI, and this was Project Introduction
